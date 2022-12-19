@@ -1,0 +1,13 @@
+.colorBoton{
+    color: white;
+    background-color: blue;
+}
+.colorBoton:hover{
+    background-color: rgb(4, 207, 243);
+}
+.imgProductos{
+    display: flex;
+    width: 200px;
+    height: 250px;
+    object-fit: contain;
+}
