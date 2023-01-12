@@ -1,0 +1,10 @@
+[
+    {"nombre": "Mario Bros", "cantidad": 1,   "id":1, "tipo": "fisico", "precio": 15000, "plataforma": "switch", "img": "img/mario-odyssey.JPG"},
+    {"nombre": "Halo",       "cantidad": 1,   "id":2, "tipo": "fisico", "precio": 14000, "plataforma": "xbox",   "img": "img/halo.jpg" },
+    {"nombre": "Fifa 2023",   "cantidad": 1,   "id":3, "tipo": "digital","precio": 10300, "plataforma": "steam", "img": "img/fifa-2023.jpg"},
+    {"nombre": "Pokemon Scarlet","cantidad": 1, "id":4, "tipo": "fisico", "precio": 15300, "plataforma": "switch","img": "img/Pokemon-Escarlata.png"},
+    {"nombre": "Call Of Duty mw2","cantidad": 1, "id":5, "tipo": "digital","precio": 10300, "plataforma": "PS5",   "img": "img/cod-mw2.jpg"},
+    {"nombre": "Stray",      "cantidad": 1,   "id":6, "tipo": "digital","precio": 10000, "plataforma": "steam", "img": "img/stray.jpg"},
+    {"nombre": "GOW Ragnarok", "cantidad": 1,  "id":7, "tipo": "fisico", "precio": 15000, "plataforma": "PS5",   "img": "img/Gow-Ragnarok.jpg"},
+    {"nombre": "Elden Ring",   "cantidad": 1,  "id":8, "tipo": "fisico", "precio": 15000, "plataforma": "PS5",   "img": "img/elden-ring.jpg"}
+]
